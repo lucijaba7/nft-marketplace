@@ -1,0 +1,4 @@
+window.env = {
+  "IPFS_PROJECT_ID": "2EAoynVjvnuJ3nijOr9bd0y4hOR",
+  "IPFS_API_KEY_SECRET": "5c370b74b7b1ab2655d43a9908340502"
+};
